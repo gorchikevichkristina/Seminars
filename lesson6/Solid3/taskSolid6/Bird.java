@@ -1,4 +1,4 @@
-package lesson6.Solid3.task2;
+package lesson6.Solid3.taskSolid6;
 
 interface Bird {
     void move();

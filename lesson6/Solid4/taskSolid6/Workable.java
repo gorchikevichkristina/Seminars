@@ -1,4 +1,4 @@
-package lesson6.Solid4.task2;
+package lesson6.Solid4.taskSolid6;
 
 interface Workable {
     void work();

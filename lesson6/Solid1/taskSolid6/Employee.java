@@ -1,4 +1,4 @@
-package lesson6.Solid1.task2;
+package lesson6.Solid1.taskSolid6;
 
 class Employee {
     private String name;

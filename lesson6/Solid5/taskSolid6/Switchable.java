@@ -1,4 +1,4 @@
-package lesson6.Solid5.task2;
+package lesson6.Solid5.taskSolid6;
 
 interface Switchable {
     void turnOn();

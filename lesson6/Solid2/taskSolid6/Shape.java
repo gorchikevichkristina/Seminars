@@ -1,4 +1,4 @@
-package lesson6.Solid2.task2;
+package lesson6.Solid2.taskSolid6;
 
 interface Shape {
     double calculateArea();
