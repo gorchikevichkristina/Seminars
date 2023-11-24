@@ -1,4 +1,4 @@
-package S24112023.task3;
+package S241123.task3;
 
 public class Main {
     public static void main(String[] args) {

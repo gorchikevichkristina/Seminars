@@ -1,4 +1,4 @@
-package S24112023.task3;
+package S241123.task3;
 
 // Создаем конкретного Строителя, который реализует интерфейс ComputerBuilder.
 class ConcreteComputerBuilder implements ComputerBuilder {
